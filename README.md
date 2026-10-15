@@ -19,4 +19,4 @@ I build practical tools for everyday problems — from browser extensions and AI
 
 ---
 
-💬 Ideas and feedback welcome — open an issue in any of my projects.
+💬 Ideas and feedback welcome · ✉️ penleymcleod@gmail.com
