@@ -10,12 +10,13 @@ I build practical tools for everyday problems — from browser extensions and AI
 
 **🛠️ Things I've built**
 
+- 💻 [Tick Rest for MacOS](https://github.com/fthux/tick-rest-macos) - Yet another break time reminder app. Take regular breaks from your computer to rest your eyes, relax, and walk around. Native experience. No Electron. Compact bundle. High performance. ([Website](https://tick-rest.fthux.com/))
 - 📦 [GitZip Pro](https://github.com/fthux/GitZipPro) — A browser extension for Chrome, Firefox, and Edge to download selected GitHub files and folders. ([Website](https://gitzippro.fthux.com))
 - 🌐 [Who Arrives](https://github.com/fthux/who-arrives) — A Free and Open Source IP-to-Country Geolocation API. ([Website](https://who-arrives.fthux.com))
 - 🏠 [RenoPit](https://github.com/fthux/RenoPit) — AI reviews of renovation plans, contracts, and quotes. ([Demo](https://renopit.fthux.com))
 - 📚 [juejin](https://github.com/fthux/juejin) — An unofficial Juejin WeChat Mini Program for learning. ([Demo](https://juejin.fthux.com))
 
-**⚙️ Stack** · Unity · Cocos · C# · JavaScript · TypeScript · Python · Cloudflare Workers · WeChat Mini Programs · Docker
+**⚙️ Stack** · Unity · Cocos · C# · JavaScript · TypeScript · Python · Swift · WeChat Mini Programs · Docker · Eat · Sleep
 
 ---
 
