@@ -10,11 +10,35 @@ I build practical tools for everyday problems — from browser extensions and AI
 
 **🛠️ Things I've built**
 
-- 💻 [Tick Rest for MacOS](https://github.com/fthux/tick-rest-macos) - Yet another break time reminder app. Take regular breaks from your computer to rest your eyes, relax, and walk around. Native experience. No Electron. Compact bundle. High performance. ([Website](https://tick-rest.fthux.com/))
-- 📦 [GitZip Pro](https://github.com/fthux/GitZipPro) — A browser extension for Chrome, Firefox, and Edge to download selected GitHub files and folders. ([Website](https://gitzippro.fthux.com))
-- 🌐 [Who Arrives](https://github.com/fthux/who-arrives) — A Free and Open Source IP-to-Country Geolocation API. ([Website](https://who-arrives.fthux.com))
-- 🏠 [RenoPit](https://github.com/fthux/RenoPit) — AI reviews of renovation plans, contracts, and quotes. ([Demo](https://renopit.fthux.com))
-- 📚 [juejin](https://github.com/fthux/juejin) — An unofficial Juejin WeChat Mini Program for learning. ([Demo](https://juejin.fthux.com))
+<p>
+  <a href="https://github.com/fthux/tick-rest-macos/blob/master/screenshots/fullscreen-wallpaper.png"><img src="assets/projects/tick-rest-cover.webp" width="96" align="right" alt="Full-screen break reminder in Tick Rest"></a>
+  <a href="https://github.com/fthux/tick-rest-macos"><img src="assets/projects/tick-rest-logo.png" width="20" height="20" align="absmiddle" alt=""> <strong>Tick Rest</strong></a> · <a href="https://tick-rest.fthux.com/">Website</a><br>
+  A macOS menu bar timer for regular screen breaks.<br clear="right">
+</p>
+
+<p>
+  <a href="https://github.com/fthux/GitZipPro/blob/master/screenshots/banner_2.jpg"><img src="assets/projects/gitzip-pro-cover.webp" width="96" align="right" alt="GitZip Pro banner"></a>
+  <a href="https://github.com/fthux/GitZipPro"><img src="assets/projects/gitzip-pro-logo.png" width="20" height="20" align="absmiddle" alt=""> <strong>GitZip Pro</strong></a> · <a href="https://gitzippro.fthux.com">Website</a><br>
+  Download selected GitHub files and folders as a ZIP.<br clear="right">
+</p>
+
+<p>
+  <a href="https://github.com/fthux/who-arrives/blob/master/promotions/promotion.jpeg"><img src="assets/projects/who-arrives-cover.webp" width="96" align="right" alt="Who Arrives API preview"></a>
+  <a href="https://github.com/fthux/who-arrives"><img src="assets/projects/who-arrives-logo.svg" width="20" height="20" align="absmiddle" alt=""> <strong>Who Arrives</strong></a> · <a href="https://who-arrives.fthux.com">Website</a><br>
+  Get the caller’s IP address, location, and network as JSON.<br clear="right">
+</p>
+
+<p>
+  <a href="https://github.com/fthux/RenoPit/blob/master/screenshots/renopit-promo.png"><img src="assets/projects/renopit-cover.webp" width="96" align="right" alt="RenoPit project banner"></a>
+  <a href="https://github.com/fthux/RenoPit"><img src="assets/projects/renopit-logo.svg" width="20" height="20" align="absmiddle" alt=""> <strong>RenoPit</strong></a> · <a href="https://renopit.fthux.com">Website</a><br>
+  Review renovation plans, contracts, and quotes with AI.<br clear="right">
+</p>
+
+<p>
+  <a href="https://github.com/fthux/juejin/blob/master/materials/banner_juejin.png"><img src="assets/projects/juejin-cover.webp" width="96" align="right" alt="Juejin Mini Program preview"></a>
+  <a href="https://github.com/fthux/juejin"><img src="assets/projects/juejin-logo.png" width="20" height="20" align="absmiddle" alt=""> <strong>juejin</strong></a> · <a href="https://juejin.fthux.com">Website</a><br>
+  An unofficial WeChat Mini Program for reading Juejin articles.<br clear="right">
+</p>
 
 **⚙️ Stack** · Unity · Cocos · C# · JavaScript · TypeScript · Python · Swift · WeChat Mini Programs · Docker · Eat · Sleep
 
