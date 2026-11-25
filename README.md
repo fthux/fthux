@@ -11,32 +11,32 @@ I build practical tools for everyday problems — from browser extensions and AI
 **🛠️ Things I've built**
 
 <p>
-  <a href="https://github.com/fthux/tick-rest-macos/blob/master/screenshots/fullscreen-wallpaper.png"><img src="assets/projects/tick-rest-cover.webp" width="96" align="right" alt="Full-screen break reminder in Tick Rest"></a>
-  <a href="https://github.com/fthux/tick-rest-macos"><img src="assets/projects/tick-rest-logo.png" width="20" height="20" align="absmiddle" alt=""> <strong>Tick Rest</strong></a> · <a href="https://tick-rest.fthux.com/">Website</a><br>
+  <a href="https://github.com/fthux/tick-rest-macos/blob/master/screenshots/fullscreen-wallpaper.png"><img src="https://raw.githubusercontent.com/fthux/tick-rest-macos/master/screenshots/fullscreen-wallpaper.png" width="96" align="right" alt="Full-screen break reminder in Tick Rest"></a>
+  <a href="https://github.com/fthux/tick-rest-macos"><img src="https://raw.githubusercontent.com/fthux/tick-rest-macos/master/Sources/TickRestCore/Resources/AppIcon.png" width="20" height="20" align="absmiddle" alt=""> <strong>Tick Rest</strong></a> · <a href="https://tick-rest.fthux.com/">Website</a><br>
   A macOS menu bar timer for regular screen breaks.<br clear="right">
 </p>
 
 <p>
-  <a href="https://github.com/fthux/GitZipPro/blob/master/screenshots/banner_2.jpg"><img src="assets/projects/gitzip-pro-cover.webp" width="96" align="right" alt="GitZip Pro banner"></a>
-  <a href="https://github.com/fthux/GitZipPro"><img src="assets/projects/gitzip-pro-logo.png" width="20" height="20" align="absmiddle" alt=""> <strong>GitZip Pro</strong></a> · <a href="https://gitzippro.fthux.com">Website</a><br>
+  <a href="https://github.com/fthux/GitZipPro/blob/master/screenshots/banner_2.jpg"><img src="https://raw.githubusercontent.com/fthux/GitZipPro/master/screenshots/banner_2.jpg" width="96" align="right" alt="GitZip Pro banner"></a>
+  <a href="https://github.com/fthux/GitZipPro"><img src="https://raw.githubusercontent.com/fthux/GitZipPro/master/source/icons/icon128.png" width="20" height="20" align="absmiddle" alt=""> <strong>GitZip Pro</strong></a> · <a href="https://gitzippro.fthux.com">Website</a><br>
   Download selected GitHub files and folders as a ZIP.<br clear="right">
 </p>
 
 <p>
-  <a href="https://github.com/fthux/who-arrives/blob/master/promotions/promotion.jpeg"><img src="assets/projects/who-arrives-cover.webp" width="96" align="right" alt="Who Arrives API preview"></a>
-  <a href="https://github.com/fthux/who-arrives"><img src="assets/projects/who-arrives-logo.svg" width="20" height="20" align="absmiddle" alt=""> <strong>Who Arrives</strong></a> · <a href="https://who-arrives.fthux.com">Website</a><br>
+  <a href="https://github.com/fthux/who-arrives/blob/master/promotions/promotion.jpeg"><img src="https://raw.githubusercontent.com/fthux/who-arrives/master/promotions/promotion.jpeg" width="96" align="right" alt="Who Arrives API preview"></a>
+  <a href="https://github.com/fthux/who-arrives"><img src="https://raw.githubusercontent.com/fthux/who-arrives/master/icons/logo.svg" width="20" height="20" align="absmiddle" alt=""> <strong>Who Arrives</strong></a> · <a href="https://who-arrives.fthux.com">Website</a><br>
   Get the caller’s IP address, location, and network as JSON.<br clear="right">
 </p>
 
 <p>
-  <a href="https://github.com/fthux/RenoPit/blob/master/screenshots/renopit-promo.png"><img src="assets/projects/renopit-cover.webp" width="96" align="right" alt="RenoPit project banner"></a>
-  <a href="https://github.com/fthux/RenoPit"><img src="assets/projects/renopit-logo.svg" width="20" height="20" align="absmiddle" alt=""> <strong>RenoPit</strong></a> · <a href="https://renopit.fthux.com">Website</a><br>
+  <a href="https://github.com/fthux/RenoPit/blob/master/screenshots/renopit-promo.png"><img src="https://raw.githubusercontent.com/fthux/RenoPit/master/screenshots/renopit-promo.png" width="96" align="right" alt="RenoPit project banner"></a>
+  <a href="https://github.com/fthux/RenoPit"><img src="https://raw.githubusercontent.com/fthux/RenoPit/master/frontend/public/favicon.svg" width="20" height="20" align="absmiddle" alt=""> <strong>RenoPit</strong></a> · <a href="https://renopit.fthux.com">Website</a><br>
   Review renovation plans, contracts, and quotes with AI.<br clear="right">
 </p>
 
 <p>
-  <a href="https://github.com/fthux/juejin/blob/master/materials/banner_juejin.png"><img src="assets/projects/juejin-cover.webp" width="96" align="right" alt="Juejin Mini Program preview"></a>
-  <a href="https://github.com/fthux/juejin"><img src="assets/projects/juejin-logo.png" width="20" height="20" align="absmiddle" alt=""> <strong>juejin</strong></a> · <a href="https://juejin.fthux.com">Website</a><br>
+  <a href="https://github.com/fthux/juejin/blob/master/materials/banner_juejin.png"><img src="https://raw.githubusercontent.com/fthux/juejin/master/materials/banner_juejin.png" width="96" align="right" alt="Juejin Mini Program preview"></a>
+  <a href="https://github.com/fthux/juejin"><img src="https://raw.githubusercontent.com/fthux/juejin/master/assets/app/common/ic_juejin_logo.png" width="20" height="20" align="absmiddle" alt=""> <strong>juejin</strong></a> · <a href="https://juejin.fthux.com">Website</a><br>
   An unofficial WeChat Mini Program for reading Juejin articles.<br clear="right">
 </p>
 
